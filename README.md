@@ -1,6 +1,6 @@
 # My-Gallery
 
-By Audrey Njiraini
+By Andason Okinyi
 
 ## Overall Project Description
 This is a personal gallery application that displays photos for others to see.
