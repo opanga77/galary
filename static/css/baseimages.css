@@ -2,13 +2,7 @@
     .modal-dialog { max-width: none; }
    }
    
-   /* .modal {
-    width: 90%;
-    height: ;
-    padding: 0;
-    align-content: center;
-   } */
-   
+
    h2, h4{
      font-family: 'Shadows Into Light', cursive;
    }
@@ -22,7 +16,7 @@
    
      font-family: 'Abel', sans-serif;
      font-size: 20px;
-     background-image: url('/static/img/purple.jpg');
+     background-image: url('/static/img/');
      background-repeat: repeat-x;
    
    }
