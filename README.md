@@ -42,6 +42,13 @@ This is a personal gallery application that displays photos for others to see.
     `python3 manage.py runserver`
 </ol>
 
+## Log in as a user
+* username 
+- Raila
+* password
+- baba12345
+
+
 ## Contact Information
 If you need clarification on any aspect, feel free to reach me via email at andersoking77@gmail.com
 
