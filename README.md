@@ -44,9 +44,9 @@ This is a personal gallery application that displays photos for others to see.
 
 ## Log in as a user
 * username 
-- Raila
+ -Raila
 * password
-- baba12345
+-baba12345
 
 
 ## Contact Information
